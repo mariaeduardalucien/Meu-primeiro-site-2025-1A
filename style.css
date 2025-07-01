@@ -4,3 +4,17 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 100px;
 }
+
+hearder{
+    border-bottom: solid 2px pink;
+   padding: 20px;
+   font-size: 30px;
+   color:white; 
+}
+
+section {
+background-color: crimson;
+padding-bottom: 80px;
+padding-top: 80px;
+display:flex;
+}
